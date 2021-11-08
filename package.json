@@ -1,0 +1,23 @@
+{
+  "name": "bravobotfrontend",
+  "version": "1.0.0",
+  "description": "This is the front end for web delevopment course. Is a DialogFlow flow, this is the webhook that is in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tony1040/BravoBotFrontEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tony1040/BravoBotFrontEnd/issues"
+  },
+  "homepage": "https://github.com/Tony1040/BravoBotFrontEnd#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.1"
+  }
+}
